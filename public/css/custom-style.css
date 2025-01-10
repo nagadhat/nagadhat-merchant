@@ -1,0 +1,93 @@
+/* ======================================================= */
+/* =============       Css For everywhere     ============ */
+/* ======================================================= */
+
+/* Color */
+.text-orange{
+    color: #E62E04;
+}
+.text-gray{
+    color:#98a6ad!important
+}
+
+/* Width and height */
+.h-200px{
+    height: 200px !important;
+}
+.w-200px{
+    width: 200px !important;
+}
+.w-300px{
+    width: 200px !important;
+}
+.w-60px{
+    width: 60px !important;
+}
+.w-fit-content{
+    width: fit-content !important;
+}
+/* Backgroud Color */
+.bg-color-brand{
+    background: #44bc9d !important;
+}
+.bg-color-white{
+    background: white !important;
+}
+.bg-color-brand-light{
+    background: #9ffce3 !important;
+}
+.bg-color-red{
+    background: red !important;
+}
+.text-color-red{
+    color:red !important;
+}
+
+
+/* Margin */
+.mt--10px{
+    margin-top: -10px;
+}
+.m-0-auto{
+    margin: 0 auto;
+}
+/* Padding */
+.p-0px-3px{
+    padding: 0px 3px !important;
+}
+.pr-2px{
+    padding-right: 2px;
+} 
+.pl-2px{
+    padding-left: 2px;
+}
+.left-1{
+    left: 1%;  
+}
+.top-1{
+    top: 1%;  
+}
+.left-0{
+    left: 0%;  
+}
+.top-0{
+    top: 0%;  
+}
+/* 
+======================================================================================= 
+==================================    Pagination ====================================== 
+=======================================================================================
+*/
+.pagination .page-link{
+    min-width: 36px;
+    min-height: 36px;
+    line-height: 36px;
+    text-align: center;
+    padding: 0;
+    border: 0;
+    font-size: 0.875rem;
+    border-radius: 50% !important;
+    color: var(--dark);
+}
+
+/* New Comment Line */
